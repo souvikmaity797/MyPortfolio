@@ -70,7 +70,7 @@ body{
     margin-left: 4rem;
     font-weight: 500;
     transition: .3s ease;
-    border-bottom: 3px solid transparent;
+ 
 }
 .navbar a:hover,
 .navbar a.active{
